@@ -1,0 +1,118 @@
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\Samples\FileUploadDownload\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\Samples\FileUploadDownload\bin\Debug\net5.0\appsettings.json
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\Samples\FileUploadDownload\bin\Debug\net5.0\FileUploadDownload.exe
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\Samples\FileUploadDownload\bin\Debug\net5.0\FileUploadDownload.deps.json
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\Samples\FileUploadDownload\bin\Debug\net5.0\FileUploadDownload.runtimeconfig.json
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\Samples\FileUploadDownload\bin\Debug\net5.0\FileUploadDownload.runtimeconfig.dev.json
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\Samples\FileUploadDownload\bin\Debug\net5.0\FileUploadDownload.dll
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\Samples\FileUploadDownload\bin\Debug\net5.0\FileUploadDownload.pdb
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\Samples\FileUploadDownload\bin\Debug\net5.0\FileUploadDownload.Views.dll
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\Samples\FileUploadDownload\bin\Debug\net5.0\FileUploadDownload.Views.pdb
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\Samples\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.csproj.AssemblyReference.cache
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\Samples\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\Samples\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.AssemblyInfoInputs.cache
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\Samples\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.AssemblyInfo.cs
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\Samples\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.csproj.CoreCompileInputs.cache
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\Samples\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\Samples\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.RazorAssemblyInfo.cache
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\Samples\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.RazorAssemblyInfo.cs
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\Samples\FileUploadDownload\obj\Debug\net5.0\scopedcss\bundle\FileUploadDownload.styles.css
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\Samples\FileUploadDownload\obj\Debug\net5.0\staticwebassets\FileUploadDownload.StaticWebAssets.Manifest.cache
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\Samples\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.TagHelpers.input.cache
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\Samples\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.TagHelpers.output.cache
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\Samples\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.RazorCoreGenerate.cache
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\Samples\FileUploadDownload\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\Samples\FileUploadDownload\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\Samples\FileUploadDownload\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\Samples\FileUploadDownload\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\Samples\FileUploadDownload\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\Samples\FileUploadDownload\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\Samples\FileUploadDownload\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\Samples\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.RazorTargetAssemblyInfo.cache
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\Samples\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.RazorTargetAssemblyInfo.cs
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\Samples\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.Views.pdb
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\Samples\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.dll
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\Samples\FileUploadDownload\obj\Debug\net5.0\refint\FileUploadDownload.dll
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\Samples\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.pdb
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\Samples\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.genruntimeconfig.cache
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\Samples\FileUploadDownload\obj\Debug\net5.0\ref\FileUploadDownload.dll
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\Samples\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.csproj.CopyComplete
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\8\FileUploadDownload\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\8\FileUploadDownload\bin\Debug\net5.0\appsettings.json
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\8\FileUploadDownload\bin\Debug\net5.0\FileUploadDownload.exe
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\8\FileUploadDownload\bin\Debug\net5.0\FileUploadDownload.deps.json
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\8\FileUploadDownload\bin\Debug\net5.0\FileUploadDownload.runtimeconfig.json
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\8\FileUploadDownload\bin\Debug\net5.0\FileUploadDownload.runtimeconfig.dev.json
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\8\FileUploadDownload\bin\Debug\net5.0\FileUploadDownload.dll
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\8\FileUploadDownload\bin\Debug\net5.0\FileUploadDownload.pdb
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\8\FileUploadDownload\bin\Debug\net5.0\FileUploadDownload.Views.dll
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\8\FileUploadDownload\bin\Debug\net5.0\FileUploadDownload.Views.pdb
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\8\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.csproj.AssemblyReference.cache
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\8\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\8\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.AssemblyInfoInputs.cache
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\8\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.AssemblyInfo.cs
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\8\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.csproj.CoreCompileInputs.cache
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\8\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\8\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.RazorAssemblyInfo.cache
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\8\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.RazorAssemblyInfo.cs
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\8\FileUploadDownload\obj\Debug\net5.0\scopedcss\bundle\FileUploadDownload.styles.css
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\8\FileUploadDownload\obj\Debug\net5.0\staticwebassets\FileUploadDownload.StaticWebAssets.Manifest.cache
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\8\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.TagHelpers.input.cache
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\8\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.TagHelpers.output.cache
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\8\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.RazorCoreGenerate.cache
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\8\FileUploadDownload\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\8\FileUploadDownload\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\8\FileUploadDownload\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\8\FileUploadDownload\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\8\FileUploadDownload\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\8\FileUploadDownload\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\8\FileUploadDownload\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\8\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.RazorTargetAssemblyInfo.cache
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\8\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.RazorTargetAssemblyInfo.cs
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\8\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.Views.pdb
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\8\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.dll
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\8\FileUploadDownload\obj\Debug\net5.0\refint\FileUploadDownload.dll
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\8\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.pdb
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\8\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.genruntimeconfig.cache
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\8\FileUploadDownload\obj\Debug\net5.0\ref\FileUploadDownload.dll
+C:\Users\chams\source\repos\Upwork\Gargoyles Solution\8\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.csproj.CopyComplete
+K:\Gorgoyle\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.pdb
+K:\Gorgoyle\FileUploadDownload\bin\Debug\net5.0\appsettings.Development.json
+K:\Gorgoyle\FileUploadDownload\bin\Debug\net5.0\appsettings.json
+K:\Gorgoyle\FileUploadDownload\bin\Debug\net5.0\FileUploadDownload.exe
+K:\Gorgoyle\FileUploadDownload\bin\Debug\net5.0\FileUploadDownload.deps.json
+K:\Gorgoyle\FileUploadDownload\bin\Debug\net5.0\FileUploadDownload.runtimeconfig.json
+K:\Gorgoyle\FileUploadDownload\bin\Debug\net5.0\FileUploadDownload.runtimeconfig.dev.json
+K:\Gorgoyle\FileUploadDownload\bin\Debug\net5.0\FileUploadDownload.dll
+K:\Gorgoyle\FileUploadDownload\bin\Debug\net5.0\ref\FileUploadDownload.dll
+K:\Gorgoyle\FileUploadDownload\bin\Debug\net5.0\FileUploadDownload.pdb
+K:\Gorgoyle\FileUploadDownload\bin\Debug\net5.0\FileUploadDownload.Views.dll
+K:\Gorgoyle\FileUploadDownload\bin\Debug\net5.0\FileUploadDownload.Views.pdb
+K:\Gorgoyle\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.csproj.AssemblyReference.cache
+K:\Gorgoyle\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.GeneratedMSBuildEditorConfig.editorconfig
+K:\Gorgoyle\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.AssemblyInfoInputs.cache
+K:\Gorgoyle\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.AssemblyInfo.cs
+K:\Gorgoyle\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.csproj.CoreCompileInputs.cache
+K:\Gorgoyle\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.MvcApplicationPartsAssemblyInfo.cache
+K:\Gorgoyle\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.RazorAssemblyInfo.cache
+K:\Gorgoyle\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.RazorAssemblyInfo.cs
+K:\Gorgoyle\FileUploadDownload\obj\Debug\net5.0\staticwebassets\FileUploadDownload.StaticWebAssets.Manifest.cache
+K:\Gorgoyle\FileUploadDownload\obj\Debug\net5.0\staticwebassets\FileUploadDownload.StaticWebAssets.xml
+K:\Gorgoyle\FileUploadDownload\obj\Debug\net5.0\scopedcss\bundle\FileUploadDownload.styles.css
+K:\Gorgoyle\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.TagHelpers.input.cache
+K:\Gorgoyle\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.TagHelpers.output.cache
+K:\Gorgoyle\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.RazorCoreGenerate.cache
+K:\Gorgoyle\FileUploadDownload\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+K:\Gorgoyle\FileUploadDownload\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+K:\Gorgoyle\FileUploadDownload\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+K:\Gorgoyle\FileUploadDownload\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+K:\Gorgoyle\FileUploadDownload\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+K:\Gorgoyle\FileUploadDownload\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+K:\Gorgoyle\FileUploadDownload\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+K:\Gorgoyle\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.RazorTargetAssemblyInfo.cache
+K:\Gorgoyle\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.RazorTargetAssemblyInfo.cs
+K:\Gorgoyle\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.Views.pdb
+K:\Gorgoyle\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.dll
+K:\Gorgoyle\FileUploadDownload\obj\Debug\net5.0\ref\FileUploadDownload.dll
+K:\Gorgoyle\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.genruntimeconfig.cache
+K:\Gorgoyle\FileUploadDownload\obj\Debug\net5.0\FileUploadDownload.csproj.CopyComplete
